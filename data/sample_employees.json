@@ -1,0 +1,62 @@
+[
+  {
+    "employee_id": "EMP-001",
+    "name": "Sarah Chen",
+    "role": "Senior Full-Stack Developer",
+    "department": "Engineering",
+    "skills": ["Python", "FastAPI", "React", "PostgreSQL", "Docker", "LangGraph", "Cloud Architecture"],
+    "current_workload_hours": 18,
+    "max_capacity_hours": 40,
+    "active_tickets": 2,
+    "performance_rating": 4.9,
+    "status": "Available"
+  },
+  {
+    "employee_id": "EMP-002",
+    "name": "Marcus Vance",
+    "role": "Lead Backend Developer",
+    "department": "Engineering",
+    "skills": ["Python", "Go", "Distributed Systems", "Kubernetes", "Redis", "Kafka", "PostgreSQL"],
+    "current_workload_hours": 38,
+    "max_capacity_hours": 40,
+    "active_tickets": 6,
+    "performance_rating": 4.8,
+    "status": "High Load"
+  },
+  {
+    "employee_id": "EMP-003",
+    "name": "Elena Rostova",
+    "role": "AI / ML Engineer",
+    "department": "AI Labs",
+    "skills": ["Python", "PyTorch", "LLM Fine-tuning", "LangChain", "Vector Databases", "Prompt Engineering"],
+    "current_workload_hours": 24,
+    "max_capacity_hours": 40,
+    "active_tickets": 3,
+    "performance_rating": 4.9,
+    "status": "Available"
+  },
+  {
+    "employee_id": "EMP-004",
+    "name": "David Kim",
+    "role": "Frontend Developer",
+    "department": "Engineering",
+    "skills": ["TypeScript", "React", "Next.js", "TailwindCSS", "UI/UX", "GraphQL"],
+    "current_workload_hours": 15,
+    "max_capacity_hours": 40,
+    "active_tickets": 2,
+    "performance_rating": 4.6,
+    "status": "Available"
+  },
+  {
+    "employee_id": "EMP-005",
+    "name": "Priya Patel",
+    "role": "DevOps & Cloud Engineer",
+    "department": "Infrastructure",
+    "skills": ["Terraform", "AWS", "GCP", "CI/CD", "Linux", "Security Compliance"],
+    "current_workload_hours": 32,
+    "max_capacity_hours": 40,
+    "active_tickets": 4,
+    "performance_rating": 4.7,
+    "status": "Moderate Load"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "order_id": "ORD-1001",
+    "customer_name": "Alice Johnson",
+    "customer_email": "alice.j@example.com",
+    "order_date": "2026-10-12T14:30:00Z",
+    "order_status": "Shipped",
+    "total_amount": 184.98,
+    "items": [
+      {
+        "sku": "SKU-1004",
+        "name": "Noise Cancelling Studio Headphones",
+        "quantity": 1,
+        "unit_price": 149.99
+      },
+      {
+        "sku": "SKU-1003",
+        "name": "Wireless Vertical Mouse",
+        "quantity": 1,
+        "unit_price": 34.99
+      }
+    ],
+    "shipping": {
+      "carrier": "FedEx",
+      "tracking_number": "FX-9823412349US",
+      "shipping_status": "In Transit",
+      "origin": "Memphis, TN Hub",
+      "destination": "Seattle, WA",
+      "estimated_delivery": "2026-10-18T17:00:00Z",
+      "current_location": "Spokane, WA Facility",
+      "last_update": "2026-10-15T08:20:00Z"
+    }
+  },
+  {
+    "order_id": "ORD-1002",
+    "customer_name": "Bob Martinez",
+    "customer_email": "bob.m@company.org",
+    "order_date": "2026-10-14T09:15:00Z",
+    "order_status": "Processing",
+    "total_amount": 399.99,
+    "items": [
+      {
+        "sku": "SKU-1002",
+        "name": "Ultra-Wide Curved Monitor 34-inch",
+        "quantity": 1,
+        "unit_price": 399.99
+      }
+    ],
+    "shipping": {
+      "carrier": "Pending",
+      "tracking_number": null,
+      "shipping_status": "Awaiting Fulfillment",
+      "origin": "Warehouse East",
+      "destination": "Austin, TX",
+      "estimated_delivery": "2026-10-21T18:00:00Z",
+      "current_location": "Warehouse Packing Station",
+      "last_update": "2026-10-14T11:00:00Z"
+    }
+  },
+  {
+    "order_id": "ORD-1003",
+    "customer_name": "Carla Gomez",
+    "customer_email": "carla.gomez@techstart.io",
+    "order_date": "2026-10-08T11:00:00Z",
+    "order_status": "Delivered",
+    "total_amount": 74.98,
+    "items": [
+      {
+        "sku": "SKU-1005",
+        "name": "Anodized Aluminum Laptop Stand",
+        "quantity": 1,
+        "unit_price": 29.99
+      },
+      {
+        "sku": "SKU-1008",
+        "name": "Full Grain Leather Desk Mat",
+        "quantity": 1,
+        "unit_price": 44.99
+      }
+    ],
+    "shipping": {
+      "carrier": "UPS",
+      "tracking_number": "1Z9999999999999999",
+      "shipping_status": "Delivered",
+      "origin": "Atlanta, GA Hub",
+      "destination": "San Francisco, CA",
+      "estimated_delivery": "2026-10-11T14:15:00Z",
+      "current_location": "Front Porch / Customer Address",
+      "last_update": "2026-10-11T14:15:00Z"
+    }
+  }
+]

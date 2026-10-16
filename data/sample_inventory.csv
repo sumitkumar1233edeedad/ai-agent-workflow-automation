@@ -1,0 +1,11 @@
+sku,product_name,category,current_stock,minimum_stock,reorder_batch_size,unit_cost
+SKU-1001,Ergonomic Mechanical Keyboard,Electronics,4,15,25,45.00
+SKU-1002,Ultra-Wide Curved Monitor 34-inch,Electronics,12,10,15,280.00
+SKU-1003,Wireless Vertical Mouse,Electronics,2,20,30,18.50
+SKU-1004,Noise Cancelling Studio Headphones,Electronics,18,15,20,85.00
+SKU-1005,Anodized Aluminum Laptop Stand,Accessories,5,25,35,14.00
+SKU-1006,Braided USB-C Fast Charging Cable 2m,Accessories,45,30,50,3.20
+SKU-1007,Dual Monitor Arm Mount,Furniture,3,10,15,42.00
+SKU-1008,Full Grain Leather Desk Mat,Accessories,1,12,20,22.00
+SKU-1009,LED Screen Light Bar,Accessories,8,15,20,27.50
+SKU-1010,Mesh High Back Office Chair,Furniture,7,5,10,120.00
